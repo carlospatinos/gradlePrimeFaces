@@ -33,7 +33,7 @@ buildscript {
 
 gretty {
     port = 8080
-    contextPath = '/'
+    contextPath = 'spring4'
     servletContainer = 'jetty9'
 }
 
