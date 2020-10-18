@@ -14,7 +14,7 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
 	<div class="container">
 		<div class="navbar-header">
-			<a class="navbar-brand" href="#">Project Name</a>
+			<a class="navbar-brand" href="#">Prime Faces Testing App</a>
 		</div>
 	</div>
 </nav>
@@ -28,7 +28,7 @@
 			</c:if>
 
 			<c:if test="${empty msg}">
-				Welcome Welcome!
+				Welcome amigos, we are ready to rock!
 			</c:if>
 		</p>
 		<p>
@@ -41,22 +41,22 @@
 
 	<div class="row">
 		<div class="col-md-4">
-			<h2>Heading</h2>
-			<p>ABC</p>
+			<h2>This is a dummy section</h2>
+			<p>Hoy hablaremos de como poder usar prime faces con bootstrap y spring boot 4</p>
 			<p>
 				<a class="btn btn-default" href="#" role="button">View details</a>
 			</p>
 		</div>
 		<div class="col-md-4">
-			<h2>Heading</h2>
-			<p>ABC</p>
+			<h2>Jetty</h2>
+			<p>Usando jetty para agilizar el desarrollo web, ventajas y desventajas.</p>
 			<p>
 				<a class="btn btn-default" href="#" role="button">View details</a>
 			</p>
 		</div>
 		<div class="col-md-4">
-			<h2>Heading</h2>
-			<p>ABC</p>
+			<h2>Web applications</h2>
+			<p>Besides there are other emerging technologies, java is what we are learning today.</p>
 			<p>
 				<a class="btn btn-default" href="#" role="button">View details</a>
 			</p>
